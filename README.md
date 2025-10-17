@@ -49,7 +49,7 @@ Desarrollo de sistema de gestión con interfaz de usuario intuitiva utilizando J
 
 ## 🏆 Logros
 
-- **Media Beca Universitaria** (2025 - Actualidad)
+- **Media Beca Universitaria** (2023 - Actualidad)
   - Obtención de media beca por buen rendimiento deportivo y académico durante la etapa del colegio
 
 ## 🌐 Idiomas
